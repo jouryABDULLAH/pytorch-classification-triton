@@ -57,7 +57,9 @@ print("Predicted class:", output.argmax())
 ```
  
 ## Output
- 
+
+![alt text](image.png)
+
 ```
 Server live: True
 Model ready: True
