@@ -66,3 +66,8 @@ Model ready: True
 Output shape: (1, 1000)
 Predicted class: 783
 ```
+
+
+---
+
+![alt text](image-1.png)
